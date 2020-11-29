@@ -1,0 +1,12 @@
+## Interface: 11305
+#11305 = 1.13.5 classic
+## Title: ThickHPbar
+## Notes: Makes HP bar thick!
+## Version: 0.9.1
+## Author: Althalla (Kim Forsberg)
+
+## X-License: Public Domain
+## X-Category: Unit Frames
+## SavedVariables: ThickHPbarData
+
+ThickHPbar.lua
