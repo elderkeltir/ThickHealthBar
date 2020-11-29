@@ -3,7 +3,7 @@
 ## Title: ThickHPbar
 ## Notes: Makes HP bar thick!
 ## Version: 0.9.1
-## Author: Althalla (Kim Forsberg)
+## Author: Esentiel (https://github.com/Esentiel)
 
 ## X-License: Public Domain
 ## X-Category: Unit Frames
