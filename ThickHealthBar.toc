@@ -1,0 +1,12 @@
+## Interface: 11305
+#11305 = 1.13.5 classic
+## Title: ThickHealthBar
+## Notes: Makes HP bar thick!
+## Version: 0.9.1
+## Author: Esentiel (https://github.com/Esentiel)
+
+## X-License: Public Domain
+## X-Category: Unit Frames
+## SavedVariables: ThickHealthBarData
+
+ThickHealthBar.lua
