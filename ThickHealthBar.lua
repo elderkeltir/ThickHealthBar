@@ -313,7 +313,7 @@ function InitializeSettingsUI(settingsFrame)
      settingsFrame.sliders["HealthTextX"]:SetPoint("CENTER", settingsFrame.editboxes["HealthTextLeftX"], 0, -50)
 
      CreateSettingsBlock(settingsFrame, "HealthTextY", -25, 25)
-     settingsFrame.sliders["HealthTextY"]:SetPoint("CENTER", settingsFrame.editboxes["HealthTextX"], 150, 25)
+     settingsFrame.sliders["HealthTextY"]:SetPoint("CENTER", settingsFrame.editboxes["HealthTextX"], 200, 25)
 
      CreateDropDown(settingsFrame)
      settingsFrame.dropDown:SetPoint("CENTER", settingsFrame.sliders["HealthbarHeight"], 200, 0)
