@@ -1,7 +1,0 @@
-/w Kylan inv
-
-/cancelaura Bloodthirst
-
-/console scripterrors 0
-
-C:\Users\aburs.DESKTOP-DI240N9\source\repos\HurricaneEngine3D\PhysX\physx\bin\win.x86_64.vc142.mt\checked
