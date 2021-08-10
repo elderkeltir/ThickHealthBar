@@ -195,7 +195,7 @@ function CreateSlider(settingsFrame, name, minVal, maxVal)
 end
 
 function CreateEditbox(settingsFrame, name, slider)
-     local editbox = CreateFrame("EditBox", name, settingsFrame)
+     local editbox = CreateFrame("EditBox", name, settingsFrame, BackdropTemplateMixin and "BackdropTemplate")
      editbox:SetPoint("CENTER", slider, 0, -25)
      editbox:SetJustifyH("CENTER")
      editbox:SetJustifyV("CENTER")
